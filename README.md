@@ -6,4 +6,6 @@
 - 📫 How to reach me: 
 - ⚡ Fun fact: ...
 
+<img src="https://img.shields.io/badge/#E34F26?style=for-the-badge&logo=html5&logoColor=black">
+
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy-ko&count_private=true&show_icons=true&theme=tokyonight)
