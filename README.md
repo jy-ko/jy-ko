@@ -2,6 +2,7 @@
 <h3 align="center">💻</h3>
 
 🌱 I’m currently learning **ReactJS**, **Ruby on Rails**
+
 👨‍💻 Check out my personal portfolio: [https://jy-ko.github.io/](https://jy-ko.github.io)
 
 <p align="center" display="inline-block">
