@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Jiyoung</h1>
-<h3 align="center">💻</h3>
 
 🌱 I’m currently learning **ReactJS**, **Ruby on Rails**
 
