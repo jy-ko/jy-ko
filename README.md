@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **ReactJS**, **Ruby on Rails**
 
-👨‍💻 Check out my personal portfolio: [https://jy-ko.github.io/](https://jy-ko.github.io)
+👨‍💻 Check out my portfolio: [https://jy-ko.github.io/](https://jy-ko.github.io)
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
