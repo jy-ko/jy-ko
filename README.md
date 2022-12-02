@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Jiyoung</h1>
 
-🌱 I’m currently learning **ReactJS**, **Ruby on Rails**
+🌱 I’m currently learning **ReactJS**, **Ruby on Rails**, **Typescript**
 
 👨‍💻 Check out my portfolio: [https://jy-ko.github.io/](https://jy-ko.github.io)
 
