@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Jiyoung</h1>
+<h1 align="center">Hey 👋 I'm Jiyoung</h1>
 
 🌱 I’m currently learning **ReactJS**, **Ruby on Rails**, **Typescript**, **NodeJS**
 
@@ -18,5 +18,6 @@
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </p>
 
-
+<!-- 
 ![Jiyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jy-ko&count_private=true&show_icons=true&theme=tokyonight)
+ -->
