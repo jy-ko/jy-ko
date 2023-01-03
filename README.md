@@ -6,8 +6,8 @@ A bit about me..
 
 👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
 
-- ✏️ LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
-- 👩🏻‍🏫 Academic Background in Accounting and Finance 💲, Supply Chain Management 🚚
+- LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
+- Academic Background in Accounting and Finance 💲, Supply Chain Management 🚚
 - Currently learning **ReactJS**, **Ruby on Rails**, **Typescript**, **GraphQL** and more!
 
 ✨ My favourite resources: 
