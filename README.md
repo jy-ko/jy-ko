@@ -3,6 +3,7 @@
 A bit about me..
 
 👩🏻‍💻 Work experience in B2B Product Marketing, and Full Stack Development (Rails, React, Svelte, Typescript..) in early-stage startups 
+
 👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
 
 - ✏️ LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
