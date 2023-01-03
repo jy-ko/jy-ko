@@ -7,8 +7,7 @@ A bit about me..
 
 - ✏️ LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
 - 👩🏻‍🏫 Academic Background in Accounting and Finance 💲, Supply Chain Management 🚚
-
-🌱 I’m currently learning **ReactJS**, **Ruby on Rails**, **Typescript**, **GraphQL** and more!
+- Currently learning **ReactJS**, **Ruby on Rails**, **Typescript**, **GraphQL** and more!
 
 ✨ My favourite resources: 
 - [Scrimba](https://scrimba.com/) for Frontend 
