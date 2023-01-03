@@ -1,8 +1,17 @@
 <h1 align="center">Hey 👋 I'm Jiyoung</h1>
 
-🌱 I’m currently learning **ReactJS**, **Ruby on Rails**, **Typescript**, **GraphQL**
+🌱 I’m currently learning **ReactJS**, **Ruby on Rails**, **Typescript**, **GraphQL** and more!
 
-👨‍💻 Check out my portfolio: [https://jy-ko.github.io/](https://jy-ko.github.io)
+👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
+
+✏️ LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
+
+✨ My favourite resources: 
+- [Scrimba](https://scrimba.com/) for Frontend 
+- [Thoughtbot Upcase](https://thoughtbot.com/upcase) for Ruby on Rails ( testing, analytics, and other more intermediate topics )
+- [The Odin Project](https://www.theodinproject.com/) 
+- youtube
+- books 
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
