@@ -21,9 +21,9 @@ Miscellaneous Facts:
 - Speaks 🇰🇷🇬🇧🇯🇵🇫🇷
 - Lived/Studied in 7+ countries 
 - Visited 40+ countries 
-- petit coffee geek ☕️
+- coffee geek ☕️
 - Favourite Sports: Swimming, Hiking, Pilates, Running
-- Interest in Stock & Real Estate investing 
+- Interest in Real Estate investing 
 
 <!-- <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
