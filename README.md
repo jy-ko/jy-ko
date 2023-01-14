@@ -20,7 +20,6 @@ A bit about me..
 Miscellaneous Facts:
 - Speaks 🇰🇷🇬🇧🇯🇵🇫🇷
 - Lived/Studied in 7+ countries 
-- Visited 40+ countries 
 - coffee geek ☕️
 - Favourite Sports: Swimming, Hiking, Pilates, Running
 - Interest in Real Estate investing 
