@@ -9,7 +9,7 @@ A bit about me..
 - LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
 - Academic Background in Accounting and Finance 💲, Supply Chain Management 🚚
 - Currently learning **ReactJS**, **Ruby on Rails**, **Typescript** and **GraphQL**
-- Recently finished Scrimba Frontend Developer Career Path course [Certificate](https://scrimba.com/certificate/umkwg2cq/gfrontend)
+- Recently completed Scrimba Frontend Developer Career Path course [Certificate](https://scrimba.com/certificate/umkwg2cq/gfrontend)
 
 Miscellaneous Facts:
 - Speaks 🇰🇷🇬🇧🇯🇵🇫🇷
