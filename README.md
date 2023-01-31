@@ -13,11 +13,9 @@ A bit about me..
 
 Miscellaneous Facts:
 - Speaks 🇰🇷🇬🇧🇯🇵🇫🇷
-- Lived/Studied in 7+ countries 
 - coffee geek ☕️
 - Favourite Sports: Swimming, Hiking, Pilates, Running
 - Interest in Real Estate investing 
-- INTJ
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
