@@ -2,20 +2,12 @@
 
 A bit about me..
 
-👩🏻‍💻 Work experience in B2B Product Marketing, and Full Stack Development (Rails, React, Svelte, Typescript..) in early-stage startups 
-
 👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
 
 - LeWagon Tokyo🇯🇵 Web Development Fulltime Bootcamp Grad ( batch #310 )
 - Academic Background in Accounting and Finance 💲, Supply Chain Management 🚚
 - Currently learning **ReactJS**, **Ruby on Rails**, **Typescript** and **GraphQL**
 - Recently completed Scrimba Frontend Developer Career Path course [Certificate](https://scrimba.com/certificate/umkwg2cq/gfrontend)
-
-Miscellaneous Facts:
-- Speaks 🇰🇷🇬🇧🇯🇵🇫🇷
-- coffee geek ☕️
-- Favourite Sports: Swimming, Hiking, Pilates, Running
-- Interest in Real Estate investing 
 
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
