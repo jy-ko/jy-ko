@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Jiyoung</h1>
 
-👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
+👨‍💻 Check out my [Portfolio](https://jy-ko.github.io)
 
 - Currently working with **Svelte**, **NextJS**, **Tailwind CSS**, **Remix** and **Sanity CMS**
   
