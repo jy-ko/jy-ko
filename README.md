@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Jiyoung</h1>
+<h1 align="center">Hey 👋 I'm Jiyoung</h1>
 
 👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
 
