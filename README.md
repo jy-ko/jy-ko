@@ -2,7 +2,7 @@
 
 👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
 
-- Currently learning **Svelte**, **NextJS**, **Remix** and **Sanity CMS**
+- Currently working with **Svelte**, **NextJS**, **Tailwind CSS**, **Remix** and **Sanity CMS**
   
 - LeWagon Tokyo🇯🇵 Web Development FT Bootcamp Grad ( batch #310 )
 - Background in Accounting and Finance 📈 and Supply Chain Management 🏭
