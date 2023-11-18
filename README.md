@@ -1,12 +1,11 @@
-<h1 align="center">Hey 👋 I'm Jiyoung</h1>
-
-A bit about me..
+<h1 align="left">Hey 👋 I'm Jiyoung</h1>
 
 👨‍💻 Check out my portfolio: [Portfolio](https://jy-ko.github.io)
 
-- LeWagon Tokyo🇯🇵 Web Development FT Bootcamp Grad ( batch #310 )
-- Academic Background in Accounting/ Finance and Supply Chain Management
 - Currently learning **Svelte**, **NextJS**, **Remix** and **Sanity CMS**
+  
+- LeWagon Tokyo🇯🇵 Web Development FT Bootcamp Grad ( batch #310 )
+- Background in Accounting and Finance 📈 and Supply Chain Management 🏭
 - Completed Scrimba Frontend Developer Career Path course [Certificate](https://scrimba.com/certificate/umkwg2cq/gfrontend)
 
 <!-- 
