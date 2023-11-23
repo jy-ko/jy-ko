@@ -4,8 +4,7 @@
 
 - Currently working with **Svelte**, **NextJS**, **Tailwind CSS**, **Remix** and **Sanity CMS**
   
-- LeWagon Tokyo🇯🇵 Web Development FT Bootcamp Grad ( batch #310 )
-- Background in Accounting and Finance 📈 and Supply Chain Management 🏭
+- LeWagon Tokyo🇯🇵 Web Development FT Bootcamp ( batch #310 )
 - Completed Scrimba Frontend Developer Career Path course [Certificate](https://scrimba.com/certificate/umkwg2cq/gfrontend)
 
 <!-- 
